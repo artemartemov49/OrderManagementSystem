@@ -2,7 +2,7 @@
 Order management system provides CRUD order operations. We can see it in '/order-list' http request.
 Also we can filter our order selection by date period.  
 
-##### Technologies: Java 16, Java Web (Servlet, JSP, JSTL), JDBC PostgreSQL
+##### Technologies: Java 16, Java Web (Servlet, JSP, JSTL), JDBC, PostgreSQL
 
 #### Product consist of:
 name,  
