@@ -19,7 +19,7 @@ customer FIO,
 total sum of basket,  
 item list.  
 
-## Example:
+## Example
 
 
 #### Order list:  
