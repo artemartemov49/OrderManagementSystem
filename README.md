@@ -1,6 +1,6 @@
 # OrderManagementSystem
 Order management system provides CRUD orders operations. We can see it in '/order-list' http request.
-Also we can filter our orders selection by date period.  
+Also we can filter our order selection by date period.  
 
 ##### Technologies: Java 16, Java Web (Servlet, JSP, JSTL), JDBC PostgreSQL
 
